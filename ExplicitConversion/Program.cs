@@ -11,8 +11,8 @@
         //int to byte
         b = (byte)a;
 
-        System.Console.WriteLine(a); //Output: 100
-        System.Console.WriteLine(b); //Output: 100
+        System.Console.WriteLine(a); //Output: 500
+        System.Console.WriteLine(b); //Output: 244
         System.Console.ReadKey();
     }
 }
